@@ -1,6 +1,9 @@
 CS 408 Team Project
+
 Marc Deaso
+
 Joshua Itagaki
+
 Chris Kang
 
 Go
